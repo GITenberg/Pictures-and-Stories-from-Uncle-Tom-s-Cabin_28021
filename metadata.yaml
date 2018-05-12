@@ -1,0 +1,44 @@
+_repo: Pictures-and-Stories-from-Uncle-Tom-s-Cabin_28021
+_version: 0.1.0
+alternative_title: Uncle Tom's Picture Book
+covers:
+- cover_type: archival
+  image_path: 28021-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+  - agent_name: Stowe, Harriet Beecher
+    aliases:
+    - Stowe, Harriet Elizabeth Beecher
+    - Crowfield, Christopher
+    - Stowe, H. B. (Harriet Beecher)
+    birthdate: 1811
+    deathdate: 1896
+    gutenberg_agent_id: '115'
+    url: http://www.gutenberg.org/2009/agents/115
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
+description: Adapted from Uncle Tom's Cabin, by Harriet Beecher Stowe.
+gutenberg_issued: '2009-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28021'
+  lccn: '97181918'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slaves -- Juvenile fiction'
+- !lcsh 'African Americans -- Juvenile fiction'
+- !lcsh 'Master and servant -- Juvenile fiction'
+- !lcsh 'Uncle Tom (Fictitious character) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Slavery -- Juvenile fiction'
+- !lcsh 'Southern States -- Juvenile fiction'
+- !lcsh 'Fugitive slaves -- Juvenile fiction'
+- !lcsh 'Plantation life -- Juvenile fiction'
+title: Pictures and Stories from Uncle Tom's Cabin
+url: http://www.gutenberg.org/ebooks/28021
