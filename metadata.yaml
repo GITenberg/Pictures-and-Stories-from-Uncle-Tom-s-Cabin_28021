@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/115
     wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
 description: Adapted from Uncle Tom's Cabin, by Harriet Beecher Stowe.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28021#Pictures-and-Stories-from-Uncle-Tom-s-Cabin
 gutenberg_issued: '2009-02-08'
 gutenberg_type: Text
 identifiers:
